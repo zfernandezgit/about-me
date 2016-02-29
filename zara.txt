@@ -1,3 +1,4 @@
 Born in: Quezon City, Philippines
 I love icecream
-color: red
+color: blue
+>>>>>>> blue
